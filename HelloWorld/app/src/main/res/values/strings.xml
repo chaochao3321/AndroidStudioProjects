@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text_msg" translatable="false">HelloWord</string>
+    <string name="pic">pic</string>
+</resources>
